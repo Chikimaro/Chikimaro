@@ -1,4 +1,4 @@
-# ![icon-user](https://simp4.jpg.church/man.png) About Me:
+# 💫 About Me:
 ⚡ Fun fact: I don't know shit about coding.
 
 # ![icon-user](https://simp4.jpg.church/network.png) Socials:
