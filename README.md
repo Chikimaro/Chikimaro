@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚡ Fun fact: I don't know shit about coding.
 
-# ![icon-user](https://simp4.jpg.church/network.png) Socials:
+# ⚔ Socials:
 [![Discord](https://cdn.discordapp.com/attachments/1043533443331530825/1182670516981608458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465.png?ex=65858ac0&is=657315c0&hm=5b97ec9a42fecd83e04e834cf4288aaf3685faf8b6bf3e5f4f9f455c5a3e9603)](https://discord.gg/)
 
 # 💻 Tech Stack:
